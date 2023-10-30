@@ -1,6 +1,4 @@
 # 2023-Team-Project
-****
-
 
 <div align="center">
   
@@ -10,13 +8,9 @@
 
 😺🐶*LANGUAGE*
 
-**language**
-
 *dart*
 
 *flutter*
-
-|---|---|---|---|  
 
 🍉🍇*E-Mail*
 
@@ -24,6 +18,5 @@
 
 *blindlchoil@gmail.com*
 
-
-
 </div> 
+
