@@ -1,2 +1,8 @@
 # 2023-Team-Project
-My name is 최혁.  
+**Team_Project**
+
+**language**
+
+*dart*
+
+*flutter*
